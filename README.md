@@ -7,12 +7,12 @@ Once Terminal is open, type "which ruby" to see if Ruby is installed on your com
 
 If the Ruby executible is already installed, you can continue by cloning this repo to your computer.
 ````
-# git clone https://github.com/ekeegan/weather_ruby.git
+# bash$ git clone https://github.com/ekeegan/weather_ruby.git
 ````
 
 After the repo is cloned, cd into the weather_ruby directory to find the weather.rb script.  To run the script, simply type the name of the ruby executable followed by a single space, followed by the name of the weather script:
 ````
-# ruby weather.rb
+# bash$ ruby weather.rb
 ````
 
 That's it.
