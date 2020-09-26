@@ -13,7 +13,7 @@ If the Ruby executible is already installed, you can continue by cloning this re
 
 After the repo is cloned, cd into the weather_ruby directory to find the weather.rb script.  To run the script, simply type the name of the ruby executable followed by a single space, followed by the name of the weather script:
 ````
-# bash$ ruby weather.rb
+# ruby weather.rb
 ````
 
 That's it.
